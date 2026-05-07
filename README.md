@@ -150,3 +150,12 @@ However:
 
 ### Key Finding
 Advertising successfully attracts user attention, but the product, landing page, and purchase flow fail to convert users into customers.
+
+## Project Files
+
+| Section | Description | Link |
+|---|---|---|
+| SQL | Funnel analysis, CTR/CVR/ER calculations, RFM segmentation | [Open SQL Folder](./SQL) |
+| Python | Personalization system and attribution modeling notebooks | [Open Python Folder](./Python) |
+| Power BI | Interactive analytical dashboard | [Open Dashboard Folder](./BI) |
+| Report | Final business and analytical report | [Open Report File](./AD-Campaigns-Analysis-Report.docx) |
